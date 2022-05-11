@@ -1,5 +1,3 @@
-# malav2110.github.io
-Developer Portfolio for Malav Shah
 Hi 👋 My name is Malav Shah
 ===========================
 
@@ -8,10 +6,13 @@ UI/UX Developer and Educator
 
 I'm a Creative and detail-oriented Web Developer, with 2+ years of experience and strong analytical abilities to know the user requirements and a wide range of technical skills to design, develop, test, and maintain the Web Applications. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
-*   🌍  I'm based in Tempe, Arizona
-*   🖥️  See my portfolio at [My Portfolio](http://malav2110.github.io)
-*   ✉️  You can contact me at [shahmalav1995@gmail.com](mailto:shahmalav1995@gmail.com)
-*   🧠  I'm learning React, Vue and Webiny Headless CMS### Skills<p align="left">
+*   🌍  I'm based in Tempe, Arizona
+*   🖥️  See my portfolio at [My Portfolio](http://malav2110.github.io)
+*   ✉️  You can contact me at [shahmalav1995@gmail.com](mailto:shahmalav1995@gmail.com)
+*   🧠  I'm learning React, Vue and Webiny Headless CMS
+
+### Skills
+<p align="left">
                                 <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" height="36" alt="Coffeescript" /></a>
                                 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -38,14 +39,15 @@ I'm a Creative and detail-oriented Web Developer, with 2+ years of experience an
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+
+   ### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/malav2110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/shahmalav1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/ShMalav1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/malav2110"><img src="https://github-readme-stats.vercel.app/api?username=malav2110&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="malav2110's GitHub stats" /></a><a href="https://github.com/malav2110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malav2110&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   <p align="left"> <a href="https://www.github.com/malav2110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shahmalav1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ShMalav1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/malav2110"><img src="https://github-readme-stats.vercel.app/api?username=malav2110&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="malav2110's GitHub stats" /></a>
+
+<a href="https://github.com/malav2110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malav2110&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
